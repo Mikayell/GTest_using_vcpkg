@@ -1,0 +1,1 @@
+# GTest_using_vcpkg
